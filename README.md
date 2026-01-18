@@ -12,6 +12,9 @@ A responsive portfolio website built with HTML, CSS, and JavaScript.
 
 ## Getting Started
 
+
+
+
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 
