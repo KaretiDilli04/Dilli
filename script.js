@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-    
+
     // Close mobile menu when a nav item is clicked
     navItems.forEach(item => {
         item.addEventListener('click', function() {
@@ -20,6 +20,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
+
+    
 
     // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
