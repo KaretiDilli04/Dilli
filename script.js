@@ -9,6 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
         navLinks.classList.toggle('active');
     });
 
+
+
+    
     // Close mobile menu when a nav item is clicked
     navItems.forEach(item => {
         item.addEventListener('click', function() {
